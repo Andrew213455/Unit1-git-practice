@@ -154,7 +154,9 @@ git branch -M main
 git push -u origin main
 
 ### Step 6
-
+git add mysteps.txt
+git commit -m "2nd commit updated mysteps.txt"
+git push -u origin main
 
 ### Step 7
 *** DO NOT RECORD STEP 7 ***
